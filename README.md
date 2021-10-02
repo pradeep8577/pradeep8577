@@ -3,11 +3,11 @@
 
 ## 📢 I'm a Student, Developer, and Open-Source enthusiast!!
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on **Self Development**
 - 🌱 I’m currently learning all the things that I like 🤣
 - 👯 Looking to connect with more people
 - 💬 ask me about anything, i am happy to help;
-- ⚡ Fun fact: I like to cook, play chess and badminton <br>
+- ⚡ Fun fact: **Person To Forget 😜**
 
 <br/>
 
