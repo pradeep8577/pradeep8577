@@ -13,5 +13,7 @@
 
 ### Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pradeep8577&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pradeep8577"/></a>
 <br/>
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pradeep8577"/></a>
+</div>
