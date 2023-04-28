@@ -17,3 +17,6 @@
 <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pradeep8577"/></a>
 </div>
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=nitinp45&icon=0&color=0)](https://visitcount.itsvg.in)
