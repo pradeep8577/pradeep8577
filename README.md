@@ -10,7 +10,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Mongodb](https://img.shields.io/badge/Monodb-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Mongodb](https://img.shields.io/badge/Mongodb-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-square&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 
